@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   height="52.160446"
+   width="58.893654"
+   id="svg2"
+   version="1.0">
+  <g
+     id="layer1"
+     transform = "matrix(0.49152541,0,0,0.49152541,-30.52802,32.981189)">
+    <path
+       id="path1872"
+       style="fill:none;fill-rule:evenodd;stroke:#858585;stroke-width:4.02427816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 122.04091,-65.038983 99.04507,-65.083622 98.905401,6.8485048 69.585721,6.7915753 121.92936,37.28119 m 0.11001,-102.317969 22.99582,0.04467 -0.13965,71.9321158 29.31966,0.056926 -54.26431,30.2654852" />
+  </g>
+</svg>
